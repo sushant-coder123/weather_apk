@@ -1,1 +1,1 @@
-#This is my wheather api
+#This is my weather api
